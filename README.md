@@ -4,16 +4,6 @@ A full-stack real-time chat application built with **Haskell** and **React**, en
 
 ---
 
-## 📷 Preview
-
-<p align="center">
-  <img src="images/chat-home.png" width="900" alt="Real-time Chat Application">
-</p>
-
-> Add screenshots of your chat interface in the `images/` folder.
-
----
-
 ## ✨ Features
 
 - 🔹 Real-time messaging using WebSocket
